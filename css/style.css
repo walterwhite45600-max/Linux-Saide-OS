@@ -1,0 +1,20 @@
+body {
+    font-family: monospace;
+    background: #121212;
+    color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+header, footer {
+    background: #1f1f1f;
+    padding: 10px;
+    text-align: center;
+}
+nav a {
+    color: #4caf50;
+    text-decoration: none;
+    margin: 0 5px;
+}
+main {
+    padding: 20px;
+}
