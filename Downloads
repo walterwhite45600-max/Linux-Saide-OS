@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Saide OS Downloads</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <h1>Saide OS Downloads</h1>
+        <nav>
+            <a href="index.html">Home</a> |
+            <a href="versions.html">Version Logs</a> |
+            <a href="download.html">Download</a>
+        </nav>
+    </header>
+    <main>
+        <h2>Available Downloads</h2>
+        <ul>
+            <li>
+                <strong>Saide 1.0.0</strong> - Initial release
+                <a href="downloads/saide-1.0.0.iso" download>Download ISO</a>
+            </li>
+            <li>
+                <strong>Saide 1.1.0</strong> - Bug fixes & improvements
+                <a href="downloads/saide-1.1.0.iso" download>Download ISO</a>
+            </li>
+        </ul>
+        <p>All ISOs are free to download. Use in VirtualBox, QEMU, or your own hardware.</p>
+    </main>
+    <footer>
+        <p>&copy; 2025 Saide OS</p>
+    </footer>
+</body>
+</html>
