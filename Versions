@@ -17,7 +17,6 @@
     <main>
         <ul>
             <li><strong>1.0.0</strong> - Initial release, basic kernel, terminal, and keyboard support</li>
-            <!-- Add future versions here -->
         </ul>
     </main>
 </body>
